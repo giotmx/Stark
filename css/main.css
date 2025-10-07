@@ -2639,7 +2639,7 @@ html.no-csstransitions .home-content__main {
 .s-services {
   padding-top: 18rem;
   padding-bottom: 18rem;
-  background-color: #050834e6;
+  background-color: #020420;
   background-repeat: no-repeat;
   background-position: center center;
   background-image: url(../images/services-bg.jpg);
@@ -2656,8 +2656,8 @@ html.no-csstransitions .home-content__main {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #030739ef;
-  opacity: .65;
+  background-color: #040828;
+  opacity: .95;
 }
 
 .s-services h4 {
