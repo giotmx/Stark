@@ -315,7 +315,7 @@
     var clAOS = function() {
         
         AOS.init( {
-            offset: 200,
+            offset: 50,
             duration: 600,
             easing: 'ease-in-sine',
             delay: 300,
