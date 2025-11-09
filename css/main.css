@@ -1725,7 +1725,7 @@ content: url("../images/1.jpeg");
   font-size: 1.3rem;
   text-transform: uppercase;
   letter-spacing: .2rem;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.377);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -2655,6 +2655,12 @@ html.no-csstransitions .home-content__main {
   overflow: hidden; /* Mantém o conteúdo dentro dos limites do contêiner */
 }
 
+@media only screen and (max-width:1200px) {
+  .margem{
+    margin-bottom: 3.5em;
+  }
+}
+
 /* Garante que a imagem preencha o contêiner */
 .image-container img {
   display: block;
@@ -3461,7 +3467,7 @@ html.no-csstransitions .home-content__main {
 .s-contact h4 {
   margin-top: 0;
   margin-bottom: 4.5rem;
-  color: rgba(255, 255, 255, 0.25);
+  color: rgba(10, 5, 56, 0.541);
   font-size: 1.6rem;
   line-height: 1.3125;
   text-transform: uppercase;
